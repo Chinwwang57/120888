@@ -8,6 +8,7 @@
 
 
 const urls = [
-	'https://www.surveycake.com/s/XRkPp',
-	'https://www.surveycake.com/s/kerxm'
+	'https://www.surveycake.com/s/YxYRy',
+	'https://www.surveycake.com/s/7MkVB',
+	'https://www.surveycake.com/s/aLVbK'
 ];
